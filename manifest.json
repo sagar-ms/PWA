@@ -1,0 +1,25 @@
+{ 
+    "name": "login",   
+    "short_name": "login", 
+    "lang": "en-US",     
+    "start_url": "index.html", 
+    "display": "standalone",  
+    "background_color": "white",   
+    "theme_color": "black",
+    "icons":[{
+        "src":"images/logo.png",
+        "sizes":"225x224",
+        "type":"image/png"
+    }, 
+    {
+        "src":"images/resize-15853013711197559989logo.png",
+        "sizes":"144x144",
+        "type":"image/png"
+    },
+    {
+        "src":"images/resize-15853028731580109254logo.png",
+        "sizes":"512x512",
+        "type":"image/png"
+    }],
+    "url":""
+    }
